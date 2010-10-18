@@ -166,7 +166,7 @@ function support_groups_views_default_views() {
         'nid_arg' => '',
         'nid_loc_field' => 'node',
         'uid_arg' => '',
-        'search_distance' => '20',
+        'search_distance' => '25',
         'search_units' => 'mile',
       ),
       'group' => '0',
